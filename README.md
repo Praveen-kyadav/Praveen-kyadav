@@ -2,17 +2,19 @@
 <h3 align="center">AI & ML Student | Full-Stack Web Developer 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Praveen-kyadav&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Praveen-kyadav&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 **B.Tech (AI & ML)** — IES College of Technology, Bhopal  
-💻 **Full-Stack Developer** (MERN / MEAN Stack)  
-🤖 Passionate about **AI + Web Integration**  
-🚀 Love building **scalable & real-world applications**  
+🎓 **B.Tech in Artificial Intelligence & Machine Learning**  
+🏫 IES College of Technology, Bhopal  
+
+💻 **Full-Stack Web Developer (MERN / MEAN Stack)**  
+🤖 Passionate about **AI + Web Development**  
+🚀 Love building **real-world & scalable applications**  
 🧠 Fast Learner • Problem Solver • Team Player  
 📍 Jharkhand, India  
 
@@ -46,38 +48,29 @@
 
 | Project | Description |
 |-------|------------|
-| 🎉 **IES FestHive** | College Event Platform (React + JWT + MongoDB) |
+| 🎉 **IES FestHive** | College Event Platform (React, JWT, MongoDB) |
 | 🏨 **Hotel Booking System** | JavaScript-based booking system |
-| 🤖 **Virtual Assistant** | AI-powered assistant |
+| 🤖 **Virtual Assistant** | AI-powered virtual assistant |
 | 🍔 **FreshFood Website** | Responsive food website (HTML & CSS) |
 
 ---
 
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praveen-kyadav&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Praveen-kyadav&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-kyadav&layout=compact&theme=radical" />
-</p>
-
-
+## 📌 What I’m Currently Doing
+- 🌱 Improving **DSA & Backend Architecture**
+- 🧠 Exploring **AI + Full-Stack Integration**
+- 💼 Preparing for **Internships & Entry-Level Roles**
 
 ---
 
 ## 🤝 Connect With Me
 
 <p>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:praveenkyadav@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
