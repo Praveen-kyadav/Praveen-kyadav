@@ -1,0 +1,82 @@
+<h1 align="center">Hi 👋, I'm Praveen Kumar Yadav</h1>
+<h3 align="center">AI & ML Student | Full-Stack Web Developer 🚀</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Praveen-kyadav&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+🎓 **B.Tech (AI & ML)** — IES College of Technology, Bhopal  
+💻 **Full-Stack Developer** (MERN / MEAN Stack)  
+🤖 Passionate about **AI + Web Integration**  
+🚀 Love building **scalable & real-world applications**  
+🧠 Fast Learner • Problem Solver • Team Player  
+📍 Jharkhand, India  
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+</p>
+
+### 🗄️ Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Projects
+
+| Project | Description |
+|-------|------------|
+| 🎉 **IES FestHive** | College Event Platform (React + JWT + MongoDB) |
+| 🏨 **Hotel Booking System** | JavaScript-based booking system |
+| 🤖 **Virtual Assistant** | AI-powered assistant |
+| 🍔 **FreshFood Website** | Responsive food website (HTML & CSS) |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Praveen-kyadav&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveen-kyadav&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-kyadav&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+💬 **Open to internships, full-stack roles & freelance work**  
+✨ *Let’s build impactful and meaningful products together*
