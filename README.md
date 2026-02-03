@@ -2,10 +2,6 @@
 <h3 align="center">AI & ML Student | Full-Stack Web Developer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=650&lines=AI+%26+ML+Undergraduate;Full+Stack+Web+Developer;MERN+%7C+MEAN+Stack;Node+%7C+Next+%7C+Angular;Building+Real+World+Projects" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Praveen-kyadav&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
@@ -14,11 +10,11 @@
 ## 👨‍💻 About Me
 
 🎓 **B.Tech in Artificial Intelligence & Machine Learning**  
-🏫 *IES College of Technology, Bhopal*  
+🏫 IES College of Technology, Bhopal  
 
 💻 **Full-Stack Web Developer (MERN / MEAN Stack)**  
-🤖 Strong interest in **AI-powered Web Applications**  
-🚀 Focused on **scalable, clean & production-ready code**  
+🤖 Passionate about **AI + Web Development**  
+🚀 Love building **real-world & scalable applications**  
 🧠 Fast Learner • Problem Solver • Team Player  
 📍 Jharkhand, India  
 
@@ -27,65 +23,48 @@
 ## 🛠 Tech Stack
 
 ### 💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
 </p>
 
 ### 🎨 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular" />
 </p>
 
 ### ⚙️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
 </p>
 
 ### 🗄️ Database & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" />
 </p>
 
 ---
 
 ## 🚀 Projects
 
-| 🚀 Project | 📝 Description |
-|-----------|---------------|
-| 🎉 **IES FestHive** | College Event Management Platform using React, JWT & MongoDB |
-| 🏨 **Hotel Booking System** | JavaScript-based booking & management system |
-| 🤖 **AI Virtual Assistant** | AI-powered assistant for automation & queries |
-| 🍔 **FreshFood Website** | Responsive food ordering website (HTML, CSS) |
+| Project | Description |
+|-------|------------|
+| 🎉 **IES FestHive** | College Event Platform (React, JWT, MongoDB) |
+| 🏨 **Hotel Booking System** | JavaScript-based booking system |
+| 🤖 **Virtual Assistant** | AI-powered virtual assistant |
+| 🍔 **FreshFood Website** | Responsive food website (HTML & CSS) |
 
 ---
 
 ## 📌 What I’m Currently Doing
-
-- 🌱 Strengthening **DSA & Backend System Design**
+- 🌱 Improving **DSA & Backend Architecture**
 - 🧠 Exploring **AI + Full-Stack Integration**
-- 💼 Preparing for **Internships & Entry-Level Developer Roles**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praveen-kyadav&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Praveen-kyadav&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-kyadav&layout=compact&theme=radical" />
-</p>
+- 💼 Preparing for **Internships & Entry-Level Roles**
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="center">
+<p>
   <a href="mailto:praveenkyadav@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -97,4 +76,4 @@
 ---
 
 💬 **Open to internships, full-stack roles & freelance work**  
-✨ *Let’s build impactful, scalable and meaningful products together*
+✨ *Let’s build impactful and meaningful products together* 
