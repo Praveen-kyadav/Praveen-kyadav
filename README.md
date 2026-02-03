@@ -2,6 +2,10 @@
 <h3 align="center">AI & ML Student | Full-Stack Web Developer 🚀</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=650&lines=AI+%26+ML+Undergraduate;Full+Stack+Web+Developer;MERN+%7C+MEAN+Stack;Node+%7C+Next+%7C+Angular;Building+Real+World+Projects" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Praveen-kyadav&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
