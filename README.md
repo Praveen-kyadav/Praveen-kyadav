@@ -55,17 +55,20 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praveen-kyadav&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Praveen-kyadav&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveen-kyadav&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Praveen-kyadav&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-kyadav&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-kyadav&layout=compact&theme=radical" />
 </p>
+
 
 ---
 
