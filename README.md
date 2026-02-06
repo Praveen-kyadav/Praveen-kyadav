@@ -64,6 +64,15 @@
 
 ---
 
+---
+
+## 🌐 Live Portfolio
+
+🚀 **Click here to visit my live portfolio:**  
+👉 [🔗 View Live Portfolio]([https://YOUR-LIVE-LINK-HERE](https://stalwart-starlight-15f60d.netlify.app/))
+
+---
+
 ## 📌 What I’m Currently Doing
 - 🌱 Improving **DSA & Backend Architecture**
 - 🧠 Exploring **AI + Full-Stack Integration**
