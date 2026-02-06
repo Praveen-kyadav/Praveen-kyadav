@@ -68,8 +68,8 @@
 
 ## 🌐 Live Portfolio
 
-🚀 **Click here to visit my live portfolio:**  
-👉 [🔗 View Live Portfolio]https://praveen-kyadav.github.io/portfolio/
+🚀 Click here to visit my live portfolio:  
+👉 🔗 [View Live Portfolio](https://praveen-kyadav.github.io/portfolio/)
 ---
 
 ## 📌 What I’m Currently Doing
